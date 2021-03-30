@@ -3,14 +3,14 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 08:52:09 GMT
+// Generated on Tue, 30 Mar 2021 08:54:16 GMT
 //
 
 #import "StyleDictionarySize.h"
 
 
 
-float const HeadingsHeading1FontSize = 44;
+float const HeadingsHeading1FontSize = 48;
 float const HeadingsHeading1FontWeight = 900;
 float const HeadingsHeading1LetterSpacing = 0;
 float const HeadingsHeading1LineHeight = 56;
