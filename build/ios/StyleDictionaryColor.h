@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Sat, 27 Mar 2021 11:19:04 GMT
+// Generated on Tue, 30 Mar 2021 08:38:26 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -34,7 +34,19 @@ GradientSingleWithMultipleColorStopsStops3Color,
 EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+EffectInnerShadowMultiple2Color,
+Grey90,
+Grey80,
+Grey70,
+Grey60,
+Grey50,
+Grey40,
+Grey30,
+Grey20,
+Grey10,
+Grey05,
+BrandNeutral,
+BrandMain
 };
 
 @interface StyleDictionaryColor : NSObject

@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Sat, 27 Mar 2021 11:19:04 GMT
+// Generated on Tue, 30 Mar 2021 08:38:26 GMT
 //
 
 import UIKit
@@ -13,6 +13,8 @@ public enum StyleDictionaryColor {
     public static let singleStroke = rgba(112, 141, 242, 1)
     public static let singleStyleStroke = rgba(4, 74, 255, 1)
     public static let unsupportedMultipleBordersStroke = rgba(255, 230, 0, 1)
+    public static let main = rgba(215, 15, 100, 1)
+    public static let neutral = rgba(8, 57, 127, 1)
     public static let multipleFills0 = rgba(64, 255, 186, 1)
     public static let multipleFills1 = rgba(0, 0, 0, 0.1)
     public static let singleBlue = rgba(4, 74, 255, 1)
@@ -34,4 +36,14 @@ public enum StyleDictionaryColor {
     public static let singleWithMultipleColorStopsStops1Color = rgba(255, 138, 0, 1)
     public static let singleWithMultipleColorStopsStops2Color = rgba(255, 46, 0, 1)
     public static let singleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
+    public static let  = rgba(244, 246, 246, 1)
+    public static let  = rgba(235, 239, 240, 1)
+    public static let  = rgba(220, 229, 230, 1)
+    public static let  = rgba(201, 211, 212, 1)
+    public static let  = rgba(166, 179, 181, 1)
+    public static let  = rgba(134, 147, 148, 1)
+    public static let  = rgba(95, 107, 108, 1)
+    public static let  = rgba(76, 87, 89, 1)
+    public static let  = rgba(46, 57, 58, 1)
+    public static let  = rgba(14, 25, 26, 1)
 }
