@@ -11,7 +11,7 @@
   "Grey05": "rgba(244, 246, 246, 1)",
   "BrandNeutral": "rgba(8, 57, 127, 1)",
   "BrandMain": "rgba(215, 15, 100, 1)",
-  "HeadingsHeading1FontSize": 48,
+  "HeadingsHeading1FontSize": 44,
   "HeadingsHeading1TextDecoration": "none",
   "HeadingsHeading1FontFamily": "Roboto",
   "HeadingsHeading1FontWeight": 900,

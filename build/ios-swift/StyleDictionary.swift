@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 08:54:16 GMT
+// Generated on Tue, 30 Mar 2021 08:55:25 GMT
 //
 
 
@@ -71,7 +71,7 @@ public class StyleDictionary {
     public static let grey80 = rgba(46, 57, 58, 1)
     public static let grey90 = rgba(14, 25, 26, 1)
     public static let headingsHeading1FontFamily = Roboto
-    public static let headingsHeading1FontSize = 48
+    public static let headingsHeading1FontSize = 44
     public static let headingsHeading1FontStretch = normal
     public static let headingsHeading1FontStyle = normal
     public static let headingsHeading1FontStyleOld = Black
