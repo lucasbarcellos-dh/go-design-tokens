@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 15:05:44 GMT
+// Generated on Wed, 31 Mar 2021 23:00:50 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -20,8 +20,11 @@ Grey30,
 Grey20,
 Grey10,
 Grey05,
+Yogiyo,
 BrandNeutral,
-BrandMain
+BrandMain,
+BrandTalabat,
+BrandHungerStation
 };
 
 @interface StyleDictionaryColor : NSObject

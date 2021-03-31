@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 15:05:44 GMT
+// Generated on Wed, 31 Mar 2021 23:00:50 GMT
 //
 
 
@@ -58,8 +58,10 @@ public class StyleDictionary {
     public static let bodyTagParagraphSpacing = 0
     public static let bodyTagTextCase = uppercase
     public static let bodyTagTextDecoration = none
+    public static let brandHungerStation = rgba(0, 194, 105, 1)
     public static let brandMain = rgba(215, 15, 100, 1)
     public static let brandNeutral = rgba(8, 57, 127, 1)
+    public static let brandTalabat = rgba(255, 90, 0, 1)
     public static let grey05 = rgba(244, 246, 246, 1)
     public static let grey10 = rgba(235, 239, 240, 1)
     public static let grey20 = rgba(220, 229, 230, 1)
@@ -130,4 +132,5 @@ public class StyleDictionary {
     public static let headingsHeading5ParagraphSpacing = 0
     public static let headingsHeading5TextCase = none
     public static let headingsHeading5TextDecoration = none
+    public static let yogiyo = rgba(250, 0, 80, 1)
 }
