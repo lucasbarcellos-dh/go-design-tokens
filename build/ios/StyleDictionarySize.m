@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 31 Mar 2021 23:01:54 GMT
+// Generated on Tue, 27 Apr 2021 14:49:24 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -64,3 +64,35 @@ float const BodyTagLetterSpacing = 0;
 float const BodyTagLineHeight = 16;
 float const BodyTagParagraphIndent = 0;
 float const BodyTagParagraphSpacing = 0;
+float const ElevationLowRadius = 4;
+float const ElevationLowOffsetX = 0;
+float const ElevationLowOffsetY = 2;
+float const ElevationLowSpread = 0;
+float const ElevationMediumRadius = 16;
+float const ElevationMediumOffsetX = 0;
+float const ElevationMediumOffsetY = 4;
+float const ElevationMediumSpread = 0;
+float const ElevationHighRadius = 30;
+float const ElevationHighOffsetX = 0;
+float const ElevationHighOffsetY = 8;
+float const ElevationHighSpread = 0;
+float const ElevationWipRevisionDepth01Radius = 4;
+float const ElevationWipRevisionDepth01OffsetX = 0;
+float const ElevationWipRevisionDepth01OffsetY = 2;
+float const ElevationWipRevisionDepth01Spread = 0;
+float const ElevationWipRevisionDepth02Radius = 8;
+float const ElevationWipRevisionDepth02OffsetX = 0;
+float const ElevationWipRevisionDepth02OffsetY = 4;
+float const ElevationWipRevisionDepth02Spread = 0;
+float const ElevationWipRevisionDepth03Radius = 20;
+float const ElevationWipRevisionDepth03OffsetX = 0;
+float const ElevationWipRevisionDepth03OffsetY = 6;
+float const ElevationWipRevisionDepth03Spread = 0;
+float const ElevationWipRevisionDepth04Radius = 24;
+float const ElevationWipRevisionDepth04OffsetX = 0;
+float const ElevationWipRevisionDepth04OffsetY = 8;
+float const ElevationWipRevisionDepth04Spread = 0;
+float const ElevationWipRevisionDepth05Radius = 32;
+float const ElevationWipRevisionDepth05OffsetX = 0;
+float const ElevationWipRevisionDepth05OffsetY = 12;
+float const ElevationWipRevisionDepth05Spread = 0;
